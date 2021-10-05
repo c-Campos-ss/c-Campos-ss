@@ -1,7 +1,6 @@
 ## Opa! Eu sou o c-Campos-ss
 
 <!--
-**c-Campos-ss/c-Campos-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Dando início ao mundo da programação
 - 🌱 Estudando Python, Html, PHP e Css
