@@ -1,7 +1,7 @@
 ## Opa, eu sou o Campos!
 
 - 🔭 Dando início ao mundo da programação.
-- 🌱 Estudando python, html, php e css.
+- 🌱 Estudando python, html, c#, php e css.
 - 😄 Pronouns: ele/dele.
 
 <div>
@@ -11,9 +11,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Campos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Campos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Campos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Campos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Campos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Campos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
