@@ -1,4 +1,4 @@
-## Opa! Eu sou o Campos!
+## Opa, eu sou o Campos!
 
 - 🔭 Dando início ao mundo da programação.
 - 🌱 Estudando python, html, php e css.
