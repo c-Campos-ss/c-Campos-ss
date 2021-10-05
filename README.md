@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Campos!
 
 - 🔭 Dando início ao mundo da programação.
-- 🌱 Estudando Python, Html, PHP e Css.
+- 🌱 Estudando python, html, php e css.
 - 😄 Pronouns: ele/dele.
 
 <div>
