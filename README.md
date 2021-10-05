@@ -1,8 +1,8 @@
-## Opa! Eu sou o c-Campos-ss
+## Opa! Eu sou o Campos!
 
-- 🔭 Dando início ao mundo da programação
-- 🌱 Estudando Python, Html, PHP e Css
-- 😄 Pronouns: ele/dele
+- 🔭 Dando início ao mundo da programação.
+- 🌱 Estudando Python, Html, PHP e Css.
+- 😄 Pronouns: ele/dele.
 
 <div>
   <a href="https://beacons.ai/c-Campos-ss">
