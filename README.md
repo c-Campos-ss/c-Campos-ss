@@ -1,7 +1,7 @@
 ## Opa, eu sou o Campos!
 
 - 🔭 Dando início ao mundo da programação.
-- 😄 Pronouns: ele/dele.
+
 
 <div>
   <a href="https://beacons.ai/c-Campos-ss">
