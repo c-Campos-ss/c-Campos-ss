@@ -1,4 +1,4 @@
-## Opa, eu sou o C.Campos!
+## Opa, eu sou Cauã Campos!
 
 - 🔭 Dando início ao mundo da programação.
 
