@@ -1,4 +1,4 @@
-- 🔭 Dando início ao mundo da programação.
+- 🔭 Dando início ao mundo da programação
 
 
 <div>
