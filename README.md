@@ -13,7 +13,7 @@
   <img align="center" alt="Campos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Campos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Campos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Campos-gif" src="https://media.discordapp.net/attachments/698304041272475678/894754018868490270/e4a90ae0-36c2-4ebc-99ab-ee6a50d5b7ab_1.jpg">
+  <img align="right" alt="Campos-gif" src="">
 </div>
   
 ##
